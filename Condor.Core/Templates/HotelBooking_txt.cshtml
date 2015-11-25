@@ -1,0 +1,18 @@
+﻿@inherits RazorTemplates.Core.TemplateBase<TheDrillBookCloud.Lib.Email.Models.HotelBookingEmailTemplateModel>
+@using System.Web
+@using System.Web.Mvc;
+@using TheDrillBookCloud.Lib
+@using TheDrillBookCloud.Lib.Email.Templates.Helpers
+
+Below are the details on your hotel bookings for an upcoming event.
+
+Event Name: @Model.EventName
+Date Of Booking: @Model.DateOfBooking
+Hotel Name: @Model.HotelName
+Hotel Address: @Model.HotelAddress
+Hotel Contact Phone Number: @Model.PhoneNumber
+Hotel Contact Booking Agent: @Model.BookingAgent
+Our block of rooms is saved under: @Model.SavedUnder
+Additional Info: @Model.AdditionalInfo
+
+- The DrillBook Team
