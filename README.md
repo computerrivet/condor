@@ -12,7 +12,7 @@ released (thanks Mark!) so others like yourself can use and contribute to the pr
 This project intends to make sending email as effortless as the Condor can soar. :)
 
 The current codebase is not ready to be used (yet). While the project will compile, it still contains references that need to be removed. 
-Of course, nothing important like usernames/passwords. 
+Of course nothing important like usernames/passwords. 
 
 
 The RoadMap
