@@ -5,7 +5,7 @@ using System.Web;
 
 using System.Web.Mvc;
 
-namespace TheDrillBookCloud.Lib.Email.Templates.Helpers
+namespace Condor.Core.Templates.Helpers
 {
     public static class Html
     {

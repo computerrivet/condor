@@ -1,4 +1,4 @@
-﻿namespace TheDrillBookCloud.Lib.Email
+﻿namespace Condor.Core
 {
     public class EmailTemplateNames
     {

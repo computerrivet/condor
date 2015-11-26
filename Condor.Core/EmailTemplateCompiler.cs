@@ -4,7 +4,7 @@ using System.Reflection;
 
 using RazorTemplates.Core;
 
-namespace TheDrillBookCloud.Lib.Email
+namespace Condor.Core
 {
     /// <summary>
     /// Hooks in the RazorTemplate project

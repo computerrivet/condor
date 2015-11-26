@@ -2,7 +2,7 @@
 
 using RazorTemplates.Core;
 
-namespace TheDrillBookCloud.Lib.Email
+namespace Condor.Core
 {
     public abstract class EmailTemplateBase : TemplateBase
     {

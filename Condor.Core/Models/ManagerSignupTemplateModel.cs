@@ -1,4 +1,4 @@
-﻿namespace TheDrillBookCloud.Lib.Email.Models
+﻿namespace Condor.Models
 {
     public class ManagerSignupTemplateModel
     {

@@ -1,6 +1,6 @@
 ﻿using System.Text.RegularExpressions;
 
-namespace TheDrillBookCloud.Lib.Email
+namespace Condor.Core
 {
     public class Validation
     {
