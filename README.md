@@ -1,3 +1,5 @@
+![Condor Logo](/Docs/logo.png)
+
 # Condor
 The fast and easy email templating system for ASP.NET
 
