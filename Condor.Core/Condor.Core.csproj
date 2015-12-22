@@ -122,38 +122,6 @@
   <ItemGroup>
     <None Include="app.config" />
     <None Include="packages.config" />
-    <None Include="Templates\AsstManagerInvite_html.cshtml" />
-    <None Include="Templates\AsstManagerInvite_txt.cshtml" />
-    <None Include="Templates\AsstManagerSignup_html.cshtml" />
-    <None Include="Templates\AsstManagerSignup_txt.cshtml" />
-    <None Include="Templates\CoachInvite_html.cshtml" />
-    <None Include="Templates\CoachInvite_txt.cshtml" />
-    <None Include="Templates\CoachSignupAssociation_html.cshtml" />
-    <None Include="Templates\CoachSignupAssociation_txt.cshtml" />
-    <None Include="Templates\CoachSignup_html.cshtml" />
-    <None Include="Templates\CoachSignup_txt.cshtml" />
-    <None Include="Templates\HotelBooking_html.cshtml" />
-    <None Include="Templates\HotelBooking_txt.cshtml" />
-    <None Include="Templates\ManagerInvite_html.cshtml" />
-    <None Include="Templates\ManagerInvite_txt.cshtml" />
-    <None Include="Templates\ManagerSignup_html.cshtml" />
-    <None Include="Templates\ManagerSignup_txt.cshtml" />
-    <None Include="Templates\ParentInvite_html.cshtml" />
-    <None Include="Templates\ParentInvite_txt.cshtml" />
-    <None Include="Templates\ParentSignup_html.cshtml" />
-    <None Include="Templates\ParentSignup_txt.cshtml" />
-    <None Include="Templates\PasswordRecoveryRequest_html.cshtml" />
-    <None Include="Templates\PasswordRecoveryRequest_txt.cshtml" />
-    <None Include="Templates\PlayerInvite_html.cshtml" />
-    <None Include="Templates\PlayerInvite_txt.cshtml" />
-    <None Include="Templates\PlayerSignup_html.cshtml" />
-    <None Include="Templates\PlayerSignup_txt.cshtml" />
-    <None Include="Templates\TeamFanSignup_html.cshtml" />
-    <None Include="Templates\TeamFanSignup_txt.cshtml" />
-    <None Include="Templates\TeamFanUserName_html.cshtml" />
-    <None Include="Templates\TeamFanUserName_txt.cshtml" />
-    <None Include="Templates\TeamUserInvite_html.cshtml" />
-    <None Include="Templates\TeamUserInvite_txt.cshtml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
