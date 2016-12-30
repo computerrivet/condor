@@ -1,5 +1,9 @@
 ![Condor Logo](/Docs/logo.png)
 
+Current Status: In-Development
+
+Although this code was used in a large ASP.NET codebase that I was given permission to extract it from, it is not quite ready to be integrated as of yet. I still need externalize template loading and make nuget packages. Pull Requests are accepted! 
+
 # Condor
 Email templating system for ASP.NET
 
@@ -14,7 +18,7 @@ The current codebase is not ready to be used (yet). While the project will compi
 
 The RoadMap
 ===========
-0.1 - Remove all company specific cruft, externalize template loading, provide support for other email services (Mandrill).
+1.0 - Remove all company specific cruft, externalize template loading, provide support for other email services (Mandrill).
 
 
 
