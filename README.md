@@ -1,9 +1,7 @@
 ![Condor Logo](/Docs/logo.png)
 
 # Condor
-The fast and easy email templating system for ASP.NET
-
-*What is it?* 
+Email templating system for ASP.NET
 
 Condor makes it very easy to send email from a .NET application. The biggest feature is that it allows you to write Razor templates that can be merged with a model class you define and populate at runtime. 
 
