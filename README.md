@@ -2,7 +2,7 @@
 
 Current Status: In-Development
 
-Although this code was used in a large ASP.NET codebase that I was given permission to extract it from, it is not quite ready to be integrated as of yet. I still need externalize template loading and make nuget packages. Pull Requests are accepted! 
+Although this code is used in a large ASP.NET codebase that I was given permission to extract, there is still some work to be done to make it usable. I still need externalize template loading and make nuget packages. Pull Requests are accepted! 
 
 # Condor
 Email templating system for ASP.NET
